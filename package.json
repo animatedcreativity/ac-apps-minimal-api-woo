@@ -1,0 +1,20 @@
+{
+  "name": "ac-apps-minimal-api-woo",
+  "version": "0.0.5",
+  "description": "api/woo.js: A module bundled by ac-bundle-module.",
+  "main": "api/woo.js",
+  "scripts": {
+    "start": "node api/woo.js"
+  },
+  "keywords": [
+    "api/woo.js",
+    "ac-bundle-app",
+    "ac-bundle-module"
+  ],
+  "repository": {
+    "url": "https://animatedcreativity.com/code/node-js/ac-apps-minimal/modules/ac-apps-minimal-api-woo/"
+  },
+  "author": "Animated Creativity",
+  "license": "MIT",
+  "dependencies": {}
+}
